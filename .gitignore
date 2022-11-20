@@ -2,3 +2,4 @@
 /target/
 /${project.build.directory}/
 /.idea/
+/src/main/java/Main.class
